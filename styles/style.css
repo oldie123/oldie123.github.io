@@ -164,9 +164,7 @@ nav ul li a {
 .burger {
     display: none;
     z-index: 99;
-    position: fixed;
-    top: 33px;
-    right: 35px;
+    margin-right: 30px;
 }
 
 /* hero section */
